@@ -1,0 +1,12 @@
+@use './variables.scss' as vars ;
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: vars.$background;
+  color: vars.$text-color;
+}
+
+.App {
+  text-align: center;
+}

@@ -16,6 +16,8 @@ describe("Kaomoji", function () {
 
         let balance = await kaomoji.balanceOf(recipient);
         expect(balance).to.equal(0);
+        let totalSupply = await kaomoji.totalSupply();
+        expect(totalSupply).to.equal(0);
 
         const mintToken = await kaomoji.payToMint(recipient, uri, {
             value: ethers.parseEther("0.12"),
@@ -24,6 +26,8 @@ describe("Kaomoji", function () {
 
         balance = await kaomoji.balanceOf(recipient);
         expect(balance).to.equal(1);
+        totalSupply = await kaomoji.totalSupply();
+        expect(totalSupply).to.equal(1);
 
         expect(await kaomoji.isOwned(uri)).to.equal(true);
     });

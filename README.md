@@ -10,3 +10,12 @@
 ```bash
 > make deploy
 ```
+
+## run
+```bash 
+npm run dev
+```
+
+## screenshot
+
+![kaomoji-web3](./screenshot.png)

